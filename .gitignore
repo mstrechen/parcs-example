@@ -1,0 +1,5 @@
+.venv
+__pycache__
+go.sum
+Makefile
+*.swp
